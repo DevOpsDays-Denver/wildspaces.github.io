@@ -1,0 +1,4 @@
+The wildspaces concept is not just a group camping trip, we work our normal work days throughout the event.  Though the group leans towards individual contributorship, many people are in meetings throughout the day. It is expected that you respect others and use headphones during calls, and not play music or do anything that may disturb others throughout the work day.  Because varied perceptions about remote work are present, anything that may negatively affect the perception of another's professionalism are strictly forbidden.
+
+
+At the end of the workday, we gather and do [Openspaces.](https://devopsdays.org/open-space-format/)  These openspaces give everyone a forum for discussing technical ideas, career development, share work experience, and network.  

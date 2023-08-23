@@ -1,8 +1,7 @@
 baseURL = 'https://wildspaces.github.io/'
-languageCode = 'en-us'
 title = 'DevOps Wildspaces'
 theme = 'risotto'
-copyright = "© 2023 [DevOpsDays-Denver](https://github.com/orgs/DevOpsDays-Denver/people)."
+copyright = "© 2023 [DevOpsDays-Denver](https://github.com/orgs/DevOpsDays-Denver/people)"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -22,9 +21,9 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
-description = "A website detailing the DevOps wildspaces idea."
-logo = "images/rice.svg"
+title = "DevOps Wildspaces"
+description = "A website detailing the DevOps Wildspaces idea."
+#logo = "images/rice.svg"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
@@ -42,6 +41,18 @@ url = "info@devopsdays.org"
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "how-it-works"
+    name = "How it works"
+    url = "/how-it-works/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "planning"
+    name = "planning"
+    url = "/planning/"
     weight = 10
 
 [taxonomies]
