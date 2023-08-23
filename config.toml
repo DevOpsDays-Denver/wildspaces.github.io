@@ -33,7 +33,7 @@ url = "https://github.com/orgs/DevOpsDays-Denver"
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "info@devopsdays.org"
+url = "mailto:info@devopsdays.org"
 
 [menu]
 
