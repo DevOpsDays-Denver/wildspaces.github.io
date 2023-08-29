@@ -1,4 +1,4 @@
-baseURL = 'https://wildspaces.github.io/'
+baseURL = 'https://wildspaces.work/'
 title = 'DevOps Wildspaces'
 theme = 'risotto'
 copyright = "© 2023 [DevOpsDays-Denver](https://github.com/orgs/DevOpsDays-Denver/people)"
