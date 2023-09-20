@@ -22,7 +22,7 @@ palette = "base16-dark"
 # Sidebar: about/bio
 [params.about]
 title = "DevOps Wildspaces"
-description = "A website detailing the DevOps Wildspaces idea."
+description = "Open spaces in wild places. Building community, engaging with nature, and redefining how we work with a sense of adventure."
 #logo = "images/rice.svg"
 
 [[params.socialLinks]]
